@@ -1,0 +1,3 @@
+git add -A 
+git commit -m "刪除檔案"
+git push
